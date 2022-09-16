@@ -39,6 +39,7 @@ module.exports = async (req, res) => {
         page,
         perpage,
         total,
+        pagecount: Math.ceil(total / perpage),
       });
     } else {
       res.status(404).json({
