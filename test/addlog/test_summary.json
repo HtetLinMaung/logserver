@@ -1,10 +1,10 @@
 [
   {
-    "name": "signin",
-    "min": 0.109,
-    "max": 0.109,
-    "avg": 0.109,
-    "successCounts": 1,
+    "name": "addlog",
+    "min": 0.485,
+    "max": 3.848,
+    "avg": 2.6498840000000086,
+    "successCounts": 1000,
     "failCounts": 0,
     "successPercent": 100,
     "failPercent": 0

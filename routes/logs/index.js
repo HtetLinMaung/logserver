@@ -1,4 +1,5 @@
 const Log = require("../../models/Log");
+const isJson = require("../../utils/is-json");
 
 module.exports = async (req, res) => {
   try {
@@ -22,9 +23,9 @@ module.exports = async (req, res) => {
         if (k == "search" && v) {
           filter["$text"] = { $search: v };
         } else if (k == "sort") {
-          sort = JSON.parse(v);
+          sort = isJson(v) ? JSON.parse(v) : sort;
         } else if (!["page", "perpage", "createdAt", "updatedAt"].includes(k)) {
-          filter[k] = v;
+          filter[k] = isJson(v) ? JSON.parse(v) : v;
         }
       }
 
