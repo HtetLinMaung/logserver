@@ -7,4 +7,4 @@ services:
     ports:
       - "9999:3000"
     environment:
-      - connection_string=mongodb://150.95.82.125:27019/logdb
+      - connection_string=mongodb://150.95.82.125:27018/logdb
