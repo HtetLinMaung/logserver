@@ -1,5 +1,5 @@
 {
-  "domain": "http://localhost:3000",
+  "domain": "http://150.95.82.125:9999",
   "endpoints": {
     "addlog": {
       "path": "/logs",
@@ -10,7 +10,7 @@
         "level": "info"
       },
       "headers": {},
-      "t": 10000
+      "t": 10
     }
   }
 }

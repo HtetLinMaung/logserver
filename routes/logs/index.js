@@ -1,12 +1,15 @@
 const Log = require("../../models/Log");
 const isJson = require("../../utils/is-json");
+const server = require("starless-server");
 
 module.exports = async (req, res) => {
   try {
     const method = req.method.toLowerCase();
     if (method == "post") {
+      const io = server.default.getIO();
       const log = Log(req.body);
       await log.save();
+      io.emit("new-log");
       res.status(201).json({
         code: 201,
         message: "Log created successful.",
