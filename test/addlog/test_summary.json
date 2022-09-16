@@ -1,9 +1,9 @@
 [
   {
     "name": "addlog",
-    "min": 0.203,
-    "max": 0.212,
-    "avg": 0.2089,
+    "min": 0.212,
+    "max": 0.253,
+    "avg": 0.22999999999999998,
     "successCounts": 10,
     "failCounts": 0,
     "successPercent": 100,

@@ -1,7 +1,7 @@
 [
   {
     "success": true,
-    "duration": 0.203,
+    "duration": 0.244,
     "response": {
       "code": 201,
       "message": "Log created successful.",
@@ -17,9 +17,9 @@
         "method": "",
         "userid": "",
         "data": null,
-        "_id": "6324fdb0f495914012eabefb",
-        "createdAt": "2022-09-16T22:50:24.387Z",
-        "updatedAt": "2022-09-16T22:50:24.387Z",
+        "_id": "6324ffbd59479376dff36b01",
+        "createdAt": "2022-09-16T22:59:09.469Z",
+        "updatedAt": "2022-09-16T22:59:09.469Z",
         "__v": 0
       }
     },
@@ -28,7 +28,7 @@
   },
   {
     "success": true,
-    "duration": 0.209,
+    "duration": 0.253,
     "response": {
       "code": 201,
       "message": "Log created successful.",
@@ -44,9 +44,9 @@
         "method": "",
         "userid": "",
         "data": null,
-        "_id": "6324fdb0f495914012eabeff",
-        "createdAt": "2022-09-16T22:50:24.395Z",
-        "updatedAt": "2022-09-16T22:50:24.395Z",
+        "_id": "6324ffbd59479376dff36b07",
+        "createdAt": "2022-09-16T22:59:09.491Z",
+        "updatedAt": "2022-09-16T22:59:09.491Z",
         "__v": 0
       }
     },
@@ -55,7 +55,7 @@
   },
   {
     "success": true,
-    "duration": 0.21,
+    "duration": 0.231,
     "response": {
       "code": 201,
       "message": "Log created successful.",
@@ -71,9 +71,9 @@
         "method": "",
         "userid": "",
         "data": null,
-        "_id": "6324fdb0f495914012eabf07",
-        "createdAt": "2022-09-16T22:50:24.411Z",
-        "updatedAt": "2022-09-16T22:50:24.411Z",
+        "_id": "6324ffbd59479376dff36b03",
+        "createdAt": "2022-09-16T22:59:09.472Z",
+        "updatedAt": "2022-09-16T22:59:09.472Z",
         "__v": 0
       }
     },
@@ -82,7 +82,7 @@
   },
   {
     "success": true,
-    "duration": 0.211,
+    "duration": 0.221,
     "response": {
       "code": 201,
       "message": "Log created successful.",
@@ -98,9 +98,9 @@
         "method": "",
         "userid": "",
         "data": null,
-        "_id": "6324fdb0f495914012eabf09",
-        "createdAt": "2022-09-16T22:50:24.413Z",
-        "updatedAt": "2022-09-16T22:50:24.413Z",
+        "_id": "6324ffbd59479376dff36afd",
+        "createdAt": "2022-09-16T22:59:09.463Z",
+        "updatedAt": "2022-09-16T22:59:09.463Z",
         "__v": 0
       }
     },
@@ -109,7 +109,7 @@
   },
   {
     "success": true,
-    "duration": 0.208,
+    "duration": 0.223,
     "response": {
       "code": 201,
       "message": "Log created successful.",
@@ -125,9 +125,9 @@
         "method": "",
         "userid": "",
         "data": null,
-        "_id": "6324fdb0f495914012eabefd",
-        "createdAt": "2022-09-16T22:50:24.391Z",
-        "updatedAt": "2022-09-16T22:50:24.391Z",
+        "_id": "6324ffbd59479376dff36af9",
+        "createdAt": "2022-09-16T22:59:09.457Z",
+        "updatedAt": "2022-09-16T22:59:09.457Z",
         "__v": 0
       }
     },
@@ -152,9 +152,9 @@
         "method": "",
         "userid": "",
         "data": null,
-        "_id": "6324fdb0f495914012eabf05",
-        "createdAt": "2022-09-16T22:50:24.402Z",
-        "updatedAt": "2022-09-16T22:50:24.402Z",
+        "_id": "6324ffbd59479376dff36af7",
+        "createdAt": "2022-09-16T22:59:09.446Z",
+        "updatedAt": "2022-09-16T22:59:09.446Z",
         "__v": 0
       }
     },
@@ -163,7 +163,7 @@
   },
   {
     "success": true,
-    "duration": 0.211,
+    "duration": 0.232,
     "response": {
       "code": 201,
       "message": "Log created successful.",
@@ -179,9 +179,9 @@
         "method": "",
         "userid": "",
         "data": null,
-        "_id": "6324fdb0f495914012eabf0d",
-        "createdAt": "2022-09-16T22:50:24.423Z",
-        "updatedAt": "2022-09-16T22:50:24.423Z",
+        "_id": "6324ffbd59479376dff36b09",
+        "createdAt": "2022-09-16T22:59:09.494Z",
+        "updatedAt": "2022-09-16T22:59:09.494Z",
         "__v": 0
       }
     },
@@ -190,7 +190,7 @@
   },
   {
     "success": true,
-    "duration": 0.209,
+    "duration": 0.221,
     "response": {
       "code": 201,
       "message": "Log created successful.",
@@ -206,9 +206,9 @@
         "method": "",
         "userid": "",
         "data": null,
-        "_id": "6324fdb0f495914012eabf03",
-        "createdAt": "2022-09-16T22:50:24.400Z",
-        "updatedAt": "2022-09-16T22:50:24.400Z",
+        "_id": "6324ffbd59479376dff36aff",
+        "createdAt": "2022-09-16T22:59:09.467Z",
+        "updatedAt": "2022-09-16T22:59:09.467Z",
         "__v": 0
       }
     },
@@ -217,7 +217,7 @@
   },
   {
     "success": true,
-    "duration": 0.209,
+    "duration": 0.232,
     "response": {
       "code": 201,
       "message": "Log created successful.",
@@ -233,9 +233,9 @@
         "method": "",
         "userid": "",
         "data": null,
-        "_id": "6324fdb0f495914012eabf0b",
-        "createdAt": "2022-09-16T22:50:24.415Z",
-        "updatedAt": "2022-09-16T22:50:24.415Z",
+        "_id": "6324ffbd59479376dff36afb",
+        "createdAt": "2022-09-16T22:59:09.461Z",
+        "updatedAt": "2022-09-16T22:59:09.461Z",
         "__v": 0
       }
     },
@@ -244,7 +244,7 @@
   },
   {
     "success": true,
-    "duration": 0.207,
+    "duration": 0.231,
     "response": {
       "code": 201,
       "message": "Log created successful.",
@@ -260,9 +260,9 @@
         "method": "",
         "userid": "",
         "data": null,
-        "_id": "6324fdb0f495914012eabf01",
-        "createdAt": "2022-09-16T22:50:24.398Z",
-        "updatedAt": "2022-09-16T22:50:24.398Z",
+        "_id": "6324ffbd59479376dff36b05",
+        "createdAt": "2022-09-16T22:59:09.476Z",
+        "updatedAt": "2022-09-16T22:59:09.476Z",
         "__v": 0
       }
     },
