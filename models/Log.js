@@ -31,6 +31,10 @@ const logSchema = new Schema(
       type: String,
       default: "",
     },
+    useragent: {
+      type: String,
+      default: "",
+    },
     method: {
       type: String,
       default: "",
