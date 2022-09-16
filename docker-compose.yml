@@ -1,0 +1,10 @@
+version: '3.9'
+
+services:
+  logserver:
+    image: htetlinmaung/logserver
+    build: .
+    ports:
+      - "9999:3000"
+    environment:
+      - connection_string=mongodb://150.95.82.125:27018/logdb

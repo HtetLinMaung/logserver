@@ -1,0 +1,12 @@
+[
+  {
+    "name": "getlogs",
+    "min": 0.196,
+    "max": 0.196,
+    "avg": 0.196,
+    "successCounts": 1,
+    "failCounts": 0,
+    "successPercent": 100,
+    "failPercent": 0
+  }
+]

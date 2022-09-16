@@ -1,0 +1,28 @@
+[
+  {
+    "success": true,
+    "duration": 0.109,
+    "response": {
+      "code": 201,
+      "message": "Log created successful.",
+      "data": {
+        "appid": "logserver",
+        "name": "add log",
+        "level": "info",
+        "code": "",
+        "message": "",
+        "stack": "",
+        "destination": "",
+        "method": "",
+        "userid": "",
+        "data": null,
+        "_id": "63248d4582f3c9c58f6f06ad",
+        "createdAt": "2022-09-16T14:50:45.587Z",
+        "updatedAt": "2022-09-16T14:50:45.587Z",
+        "__v": 0
+      }
+    },
+    "errMessage": "",
+    "stack": ""
+  }
+]

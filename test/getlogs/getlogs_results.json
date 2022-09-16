@@ -1,0 +1,33 @@
+[
+  {
+    "success": true,
+    "duration": 0.196,
+    "response": {
+      "code": 200,
+      "message": "Logs fetched successful.",
+      "data": [
+        {
+          "_id": "63248d4582f3c9c58f6f06ad",
+          "appid": "logserver",
+          "name": "add log",
+          "level": "info",
+          "code": "",
+          "message": "",
+          "stack": "",
+          "destination": "",
+          "method": "",
+          "userid": "",
+          "data": null,
+          "createdAt": "2022-09-16T14:50:45.587Z",
+          "updatedAt": "2022-09-16T14:50:45.587Z",
+          "__v": 0
+        }
+      ],
+      "page": 1,
+      "perpage": 10,
+      "total": 1
+    },
+    "errMessage": "",
+    "stack": ""
+  }
+]

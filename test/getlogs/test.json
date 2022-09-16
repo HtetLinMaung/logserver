@@ -1,0 +1,16 @@
+{
+  "domain": "http://localhost:3000",
+  "endpoints": {
+    "getlogs": {
+      "path": "/logs",
+      "method": "get",
+      "query": {
+        "page": 1,
+        "perpage": 10,
+        "_id": "63248d4582f3c9c58f6f06ad"
+      },
+      "headers": {},
+      "t": 1
+    }
+  }
+}

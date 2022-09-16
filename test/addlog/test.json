@@ -1,0 +1,16 @@
+{
+  "domain": "http://localhost:3000",
+  "endpoints": {
+    "addlog": {
+      "path": "/logs",
+      "method": "post",
+      "body": {
+        "appid": "logserver",
+        "name": "add log",
+        "level": "info"
+      },
+      "headers": {},
+      "t": 1
+    }
+  }
+}
