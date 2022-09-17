@@ -1,6 +1,7 @@
 const Log = require("../../models/Log");
 const isJson = require("../../utils/is-json");
 const server = require("starless-server");
+const { sendEmail } = require("../../utils/mxgw");
 
 module.exports = async (req, res) => {
   try {
@@ -10,6 +11,14 @@ module.exports = async (req, res) => {
       const log = Log(req.body);
       await log.save();
       io.emit("new-log");
+      if (req.body.level == "error") {
+        sendEmail(
+          process.env.dev_email,
+          `Error for ${req.body.appid}`,
+          JSON.stringify(log, null, 2),
+          "Log Server"
+        );
+      }
       res.status(201).json({
         code: 201,
         message: "Log created successful.",
