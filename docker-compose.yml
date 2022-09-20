@@ -8,3 +8,5 @@ services:
       - "9999:3000"
     environment:
       - connection_string=mongodb://150.95.82.125:27018/logdb
+      - mxgw_domain=https://mxgw.omnicloudapi.com
+      - dev_email=jsthtet96@gmail.com
